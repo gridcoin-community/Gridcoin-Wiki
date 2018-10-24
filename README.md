@@ -5,3 +5,4 @@
 
 <p align="center">Please click the <code>wiki</code> tab, or visit the link: https://github.com/gridcoin-community/Gridcoin-Wiki/wiki
 </p>
+<p align="center">The main repo is located here: https://github.com/gridcoin-community/Gridcoin-Research</p>
