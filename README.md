@@ -1,8 +1,5 @@
-![](https://i.imgur.com/Xt2bOyw.png)
-  
-<header><h1 align="center"> The official Gridcoin wiki.
-</h1>
+# This wiki is deprecated. See the new wiki for more up to date information: https://gridcoin.us/wiki
 
-<p align="center">Please click the <code>wiki</code> tab, or visit the link: https://github.com/gridcoin-community/Gridcoin-Wiki/wiki
-</p>
-<p align="center">The main repo is located here: https://github.com/gridcoin-community/Gridcoin-Research</p>
+
+---
+To view this deprecated wiki, click the `wiki` tab or go to https://github.com/gridcoin-community/Gridcoin-Wiki/wiki
